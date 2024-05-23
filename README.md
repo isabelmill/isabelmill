@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Isabel Mill</h1>
-<h3 align="center">A passionate full-stack developer from Israel</h3>
-
-- 🌱 I’m currently learning **Next.js**
+<h3 align="center">A passionate penetration tester and full-stack developer from Israel</h3>
 
 - 📫 How to reach me **isabelmill1122@gmail.com**
 
